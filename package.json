@@ -1,0 +1,36 @@
+{
+  "name": "pattern-path",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.js",
+      "import": "./dist/index.js",
+      "require": "./index.cjs"
+    }
+  },
+  "scripts": {
+    "build": "npm run build:tsc",
+    "build:tsc": "tsc"
+  },
+  "keywords": [
+    "pattern",
+    "path",
+    "fs",
+    "path",
+    "file",
+    "glob"
+  ],
+  "author": "Your Name",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.5.2",
+    "typescript": "^5.5.4"
+  }
+}
