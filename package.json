@@ -7,7 +7,7 @@
     ".": {
       "types": "./dist/index.d.js",
       "import": "./dist/index.js",
-      "require": "./index.js"
+      "require": "./dist/index.js"
     }
   },
   "scripts": {
