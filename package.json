@@ -7,7 +7,7 @@
     ".": {
       "types": "./dist/index.d.js",
       "import": "./dist/index.js",
-      "require": "./index.cjs"
+      "require": "./index.js"
     }
   },
   "scripts": {
@@ -22,7 +22,7 @@
     "file",
     "glob"
   ],
-  "author": "Your Name",
+  "author": "OverFlowBIN",
   "repository": {
     "type": "git",
     "url": "https://github.com/OverFlowBIN/pattern-path.git"

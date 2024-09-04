@@ -9,3 +9,7 @@ To use this module, you need to have Node.js installed on your machine. Then, yo
 ```js
 npm install patter-path --save
 ```
+
+## npmjs.com
+
+https://www.npmjs.com/package/pattern-path
